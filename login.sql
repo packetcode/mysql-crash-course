@@ -67,38 +67,3 @@ CREATE TABLE orders(
     userId INT,
     FOREIGN KEY(userId) REFERENCES login(id)
 );
-
--- Joins, Aliases, Aggregate functions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
